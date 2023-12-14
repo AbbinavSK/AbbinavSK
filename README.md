@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbbinavSK
-- 👀 I’m interested in Engineering and Mathematics applied in AI and ML
+- 👀 I’m interested in Computer Science and Mathematics applied in AI and ML
 - 🌱 I’m currently learning Deep Neural Networks and Quantum Computing
 - ✨ I hope to collaborate all my learnings and apply them in various projects
 - 📫 You can reach me using email : abbinavsankar2003@gmail.com
