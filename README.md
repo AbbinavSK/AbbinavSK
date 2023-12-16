@@ -6,14 +6,14 @@
 - 📫 Linkedin : https://www.linkedin.com/in/abbinav-sankar-kailasam-a92872222/
 
 <a href="https://www.linkedin.com/in/abbinav-sankar-kailasam-a92872222/">
-  <img align="left" alt="Abbinav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="right" alt="Abbinav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="mailto:abbinavsankar2003@gmail.com">
-  <img align="left" alt="Abbinav's mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg" />
+  <img align="right" alt="Abbinav's mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg" />
 </a>
 <br></br>
 
-### Languages and Tools :rocket:
+### Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://www.r-project.org/logo/Rlogo.svg"></code>
