@@ -1,4 +1,5 @@
 <h1 align="center">Hello 👋, I'm Abbinav Sankar Kailasam</h1>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aspiring+Data+Scientist;Curious+student)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @AbbinavSK
