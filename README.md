@@ -6,9 +6,9 @@
   
 - 👀 I’m interested in Computer Science and Mathematics applied in AI and ML
   
-- 🌱 I’m currently working on Computer vision applications and developing LLMs
+- 🌱 I’m currently working on developing LLMs
   
-- ✨ I hope to collaborate all my learnings and apply them in various project
+- ✨ I hope to collate all my learnings and apply them in various projects
   
 - 📫 You can reach me using email : abbinavsankar2003@gmail.com
   
