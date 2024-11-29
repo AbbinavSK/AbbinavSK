@@ -12,4 +12,4 @@
   
 - 📫 You can reach me using email : abbinavsankar2003@gmail.com
   
-- 📫 Linkedin : [https://www.linkedin.com/in/abbinavsk/]
+- 📫 Linkedin : https://www.linkedin.com/in/abbinavsk/
