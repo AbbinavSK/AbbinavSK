@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @AbbinavSK
   
-- 👀 I’m interested in Computer Science and Statisticsapplied in Quantitative Finance
+- 👀 I’m interested in Computer Science and Statistics applied in Quantitative Finance
   
 - 🌱 I’m currently working on pricing models for different assets and commodities
   
