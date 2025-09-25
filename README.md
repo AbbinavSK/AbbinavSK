@@ -8,7 +8,7 @@
   
 - 👀 I’m interested in all aspects of **Quantitative Finance** and want to learn more about building better investment strategies
   
-- 🌱 I’m currently learning to build **volatility models for various assets and commodities** in the market
+- 🌱 I’m currently learning to build **volatility models for different assets and commodities** on the market
   
 - 📫 You can reach me using email : **abbinavsankar2003@gmail.com** or **abbinav.k-25@scds.saiuniversity.edu.in**
   
