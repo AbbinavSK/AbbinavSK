@@ -4,13 +4,15 @@
 
 - 👋 Hi, I’m @AbbinavSK
 
-- 🔭 I'm currently working on Research Projects at Jawaharlal Nehru University(JNU)
+- 🎓 I'm a Master's student at Computational Finance at UCL (graduating Sep 2026).
+
+- 🔬 Currently working as a **Research Intern** at Jawaharlal Nehru University (JNU) where I model the impact of exogenous factors on crop prices in India.
   
-- 👀 I’m interested in all aspects of **Quantitative Finance** and want to learn more about building better investment strategies
+- 👀 Heavily passionate about **Quantitative Finance**, particularly in areas like portfolio construction and risk assessment.
   
-- 🌱 I’m currently learning to build **volatility models for different assets and commodities** on the market
+- 🌱 I’m currently conducting **literature review on understanding financial markets** from an econophysics data-driven perspective.
   
-- 📫 You can reach me using email : **abbinavsankar2003@gmail.com** or **abbinav.k-25@scds.saiuniversity.edu.in**
+- 📫 You can reach me using email : **abbinavsankar2003@gmail.com**
   
 - ⚡ Fun fact: Curious about anything under the heavens
 
