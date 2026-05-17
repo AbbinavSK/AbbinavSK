@@ -42,5 +42,5 @@
 <p align="center">
 <a href="https://x.com/AbbinavSK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/twitter.svg" alt="AbbinavSK" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abbinavsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/linked-in-alt.svg" alt="abbinavsk" height="30" width="40" /></a>
-<a href="https://www.instagram.com/abbinav_thecollegeman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/instagram.svg" alt="abbinav_thecollegeman" height="30" width="40" /></a>
+<a href="https://www.instagram.com/abbinav_thequant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/instagram.svg" alt="abbinav_thecollegeman" height="30" width="40" /></a>
 </p>
