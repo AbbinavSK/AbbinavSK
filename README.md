@@ -4,13 +4,13 @@
 
 - 👋 Hi, I’m @AbbinavSK
 
-- 🎓 I'm a **Master's student** in Computational Finance at University College London (UCL) (graduating Sep 2026).
+- 🎓 I'm a **MSc Computational Finance** student at University College London (UCL) (graduating Sep 2026).
 
 - 🔬 Currently working as a **Research Intern** at Jawaharlal Nehru University (JNU) where I model the impact of exogenous factors on crop prices in India.
   
-- 👀 Heavily passionate about **Quantitative Finance**, particularly in areas like portfolio construction, pricing and risk assessment.
+- 👀 Heavily passionate about **Quantitative Finance**, particularly in areas like pricing, portfolio construction and risk assessment.
   
-- 🌱 I’m currently conducting **literature review on understanding financial markets** from an econophysics data-driven perspective.
+- 🌱 I’m currently studying financial markets from a data-driven econophysics perspective and hope to pursue a PhD in this area.
   
 - 📫 You can reach me using email : **abbinavsankar2003@gmail.com**
   
